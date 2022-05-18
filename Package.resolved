@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Common",
+        "repositoryURL": "https://github.com/w9i/Common",
+        "state": {
+          "branch": null,
+          "revision": "43ac749ff2ddf46e3e7588746d23e1243a3f99f0",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Domain",
+        "repositoryURL": "https://github.com/w9i/Domain",
+        "state": {
+          "branch": null,
+          "revision": "48447e6933eb991dd6cc7fd9f016f342d7951d51",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Networking",
+        "repositoryURL": "https://github.com/w9i/Networking",
+        "state": {
+          "branch": null,
+          "revision": "1aac7ee1b5dda3d370430f78be0bd8d5253202a7",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
