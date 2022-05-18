@@ -14,9 +14,9 @@ let package = Package(
             targets: ["Data"]),
     ],
     dependencies: [
-        .package(path: "https://github.com/w9i/Common"),
-        .package(path: "https://github.com/w9i/Domain"),
-        .package(path: "https://github.com/w9i/Networking")
+        .package(name: "Common", path: "https://github.com/w9i/Common"),
+        .package(name: "Domain", path: "https://github.com/w9i/Domain"),
+        .package(name: "Networking", path: "https://github.com/w9i/Networking")
     ],
     targets: [
         .target(
